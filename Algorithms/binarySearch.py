@@ -1,5 +1,5 @@
 class Solution:
-    
+  
     def find_number(self, target:int, numberList:list[int] = []):
         
         least = 0 
